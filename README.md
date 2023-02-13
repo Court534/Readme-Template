@@ -4,6 +4,14 @@
 A brief description of what this project does and who it's for
 
 
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
 ## Demo
 
 Insert gif or link to demo
@@ -16,11 +24,11 @@ Insert gif or link to demo
 
 ## Installation
 
-Install New-Project with npm
+Install my-project with npm
 
 ```bash
-  npm install New-Project
-  cd New-Project
+  npm install my-project
+  cd my-project
 ```
     
 ## Deployment
@@ -35,5 +43,4 @@ To deploy this project run
 ## Authors
 
 - [@UserName](https://www.github.com/UserName)
-
 
