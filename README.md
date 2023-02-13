@@ -16,11 +16,11 @@ Insert gif or link to demo
 
 ## Installation
 
-Install my-project with npm
+Install New-Project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install New-Project
+  cd New-Project
 ```
     
 ## Deployment
